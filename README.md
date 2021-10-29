@@ -45,7 +45,7 @@ There are also plenty of other pre-processors that I could compare, but their �
 | Root reference                                                                                           | ✅                                                                          | ✅     | ❌   |
 | [Property nesting](https://sass-lang.com/documentation/style-rules/declarations#nesting)                 | ✅                                                                          | ❌     | ❌   |
 | [Property lookup](https://stylus-lang.com/docs/variables.html#property-lookup)                           | ❌                                                                          | ✅     | ✅   |
-| [Placeholder selectors](https://sass-lang.com/documentation/style-rules/placeholder-selectors)           | ✅                                                                          | ❌     | ❌   |
+| [Placeholder selectors](https://sass-lang.com/documentation/style-rules/placeholder-selectors)           | ✅                                                                          | ❌     | ✅ ([detached rulesets](https://lesscss.org/features/#detached-rulesets-feature))   |
 
 ## Variables
 
